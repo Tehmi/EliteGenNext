@@ -1,0 +1,11 @@
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\bin\Debug\EliteGenNext.XML
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.exe
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.pdb
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.frmInvoice.resources
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.Properties.Resources.resources
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.csproj.GenerateResource.Cache
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\bin\Debug\EliteGenNext.exe
+C:\Users\tehmina\Desktop\SourceCodeModule8\SourceCodeModule08\EliteGenNext\EliteGenNext\EliteGenNext\bin\Debug\EliteGenNext.pdb
+Z:\HDSE\WinForms\For Session 8 (Data Classes)\EliteGenNext\EliteGenNext\EliteGenNext\bin\Debug\EliteGenNext.XML
+Z:\HDSE\WinForms\For Session 8 (Data Classes)\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.exe
+Z:\HDSE\WinForms\For Session 8 (Data Classes)\EliteGenNext\EliteGenNext\EliteGenNext\obj\Debug\EliteGenNext.pdb
